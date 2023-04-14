@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Chafale</h1>
 <h3 align="center">I'm currently studying Information Technology Engineering</h3>
 
-<img align="right" alt="coding" width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3LMfiVUvSpNbOND4Rg7DK7&ust=1681542427302000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC4g-vnqP4CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0VqGR38HuFz-seuMKmFgkn&ust=1681544129509000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi5yJbuqP4CFQAAAAAdAAAAABAS">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantchafale&label=Profile%20views&color=0e75b6&style=flat" alt="sushantchafale" /> </p>
 
